@@ -29,9 +29,13 @@ Este proyecto tiene como objetivo detectar si un texto refleja indicios de depre
 
 Proyecto-IA-Depresion/
 ├── data/ # Datasets usados (.csv)
+
 ├── notebooks/ # Jupyter notebooks del análisis y modelado
+
 ├── models/ # Modelos entrenados (.keras)
+
 ├── docs/ # Documentación del proyecto (PDF)
+
 ├── README.md # Este archivo
 
 
