@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo detectar si un texto refleja indicios de depre
 
 1. El usuario ingresa un texto libre (por ejemplo, un tuit o una publicación personal).
 2. El primer modelo analiza el texto y devuelve una distribución porcentual de emociones (tristeza, alegría, miedo, etc.).
-3. Estos porcentajes son usados como entrada para un segundo modelo que predice si el texto es **depresivo** o **no depresivo**.
+3. Estos porcentajes junto con un modelo que analiza si tiene depresión o no, son usados para predecir si el texto es **depresivo** o **no depresivo** teniendo en cuenta unos requisitos.
 4. El sistema entrega una respuesta final al usuario.
 
 ---
