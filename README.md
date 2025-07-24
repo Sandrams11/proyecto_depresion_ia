@@ -28,6 +28,7 @@ Este proyecto tiene como objetivo detectar si un texto refleja indicios de depre
 ## 📁 Estructura del repositorio
 
 Proyecto-IA-Depresion/
+
 ├── data/ # Datasets usados (.csv)
 
 ├── notebooks/ # Jupyter notebooks del análisis y modelado
